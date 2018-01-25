@@ -1,0 +1,2 @@
+# lrnfullgit
+working with git
